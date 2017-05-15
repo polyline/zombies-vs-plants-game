@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1419098390 source:c:\users\user\desktop\menu\audio.c
+	"audio.h"
+
+1419098276 c:\users\user\desktop\menu\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1231277502 source:c:\users\user\desktop\menu\console_draw2.c
+	"console_draw2.h"
+
+1421547714 c:\users\user\desktop\menu\console_draw2.h
+	<windows.h>
+
+1197428098 source:c:\users\user\desktop\menu\kb_input2.c
+	"kb_input2.h"
+
+1197428690 c:\users\user\desktop\menu\kb_input2.h
+	<windows.h>
+
+1421648637 source:c:\users\user\desktop\menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"audio.h"
+	"console_draw2.h"
+	"kb_input2.h"
+	"show_image.h"
+
+1420219240 c:\users\user\desktop\menu\show_image.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw2.h"
+
+1420219867 source:c:\users\user\desktop\menu\show_image.c
+	"show_image.h"
+
+1419098390 source:c:\users\jojo\downloads\menu\audio.c
+	"audio.h"
+
+1419098276 c:\users\jojo\downloads\menu\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1231277502 source:c:\users\jojo\downloads\menu\console_draw2.c
+	"console_draw2.h"
+
+1421547714 c:\users\jojo\downloads\menu\console_draw2.h
+	<windows.h>
+
+1197428098 source:c:\users\jojo\downloads\menu\kb_input2.c
+	"kb_input2.h"
+
+1197428690 c:\users\jojo\downloads\menu\kb_input2.h
+	<windows.h>
+
+1420219867 source:c:\users\jojo\downloads\menu\show_image.c
+	"show_image.h"
+
+1420219240 c:\users\jojo\downloads\menu\show_image.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw2.h"
+

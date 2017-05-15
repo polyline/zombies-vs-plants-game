@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1419098390 source:c:\users\jojo\desktop\final project\plants vs zombies\audio.c
+	"audio.h"
+
+1419098276 c:\users\jojo\desktop\final project\plants vs zombies\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1231277502 source:c:\users\jojo\desktop\final project\plants vs zombies\console_draw2.c
+	"console_draw2.h"
+
+1420639861 c:\users\jojo\desktop\final project\plants vs zombies\console_draw2.h
+	<windows.h>
+
+1197428098 source:c:\users\jojo\desktop\final project\plants vs zombies\kb_input2.c
+	"kb_input2.h"
+
+1197428690 c:\users\jojo\desktop\final project\plants vs zombies\kb_input2.h
+	<windows.h>
+
+1421656754 source:c:\users\jojo\desktop\final project\plants vs zombies\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw2.h"
+	"show_image.h"
+	"kb_input2.h"
+	"audio.h"
+	<time.h>
+
+1420219240 c:\users\jojo\desktop\final project\plants vs zombies\show_image.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw2.h"
+
+1420219867 source:c:\users\jojo\desktop\final project\plants vs zombies\show_image.c
+	"show_image.h"
+
